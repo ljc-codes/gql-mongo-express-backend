@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_URI": "mongodb+srv://luigi:luigi@supercluster-n3ulk.mongodb.net/artemis-dev?retryWrites=true&w=majority",
+        "GQL_ENDPOINT": "/graphql",
+        "PORT": 4000
+    }
+}
+
