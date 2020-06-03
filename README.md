@@ -9,11 +9,11 @@ The code includes some simple data models to get started.
 
 TODO: Cleanup Models + Buildsteps + Devops
 
-:: app ::
-|__client   [vue]
-|__graphql    [graphql]
-|__middleware [jsonwebtokenauth]
-|__models     [mongodb]
+##:: app ::
+###|__client   [vue]
+###|__graphql    [graphql]
+###|__middleware [jsonwebtokenauth]
+###|__models     [mongodb]
 
 Steps: 
 
