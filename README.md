@@ -1,4 +1,6 @@
-# Overview
+# 🦩 graphql-mongo-expressjs-api
+## Overview
+
 This is a very simple mongoDB express graphql backend.
 
 It features jsonwebtoken auth and nodemon. 
