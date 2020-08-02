@@ -1,9 +1,6 @@
 # 🦩 graphql-mongo-expressjs-api
+
 ## Overview
-### version: BETA
-
-
-## What is it?
 
 **graphql-mongo-expressjs-api** is example code for standing up a graphql endpoint on an express server with nodemon. 
 
