@@ -7,7 +7,7 @@
 
 **graphql-mongo-expressjs-api** is example code for standing up a graphql endpoint on an express server with nodemon. 
 
-The graphql app leverages mongoose to build data models and connects to a mongo atlas cluster. Middleware in the form of jsonwebtoken is provided for authentication. 
+The app leverages mongoose to build data models and interacts to a mongo atlas cluster. Middleware in the form of jsonwebtoken is provided for authentication. 
 
 The starter models included in the code demonstrate basic usages for building web apps. 
 
