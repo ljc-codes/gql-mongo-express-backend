@@ -1,4 +1,4 @@
-# 🦩 graphql-mongo-expressjs-api
+# 🦘 graphql-mongo-expressjs-api
 
 ## Overview
 
